@@ -1,14 +1,9 @@
 [
-    
-    
-
   {
     "name": "Успения пр.Богородицы",
     "category": "Березовское благочиние",
     "state": "г.Березовский",
-    "id": 1001,
-    "isFeatured": false,
-    "isFavorite": false,
+    "id": 1001, 
     "park": "http://uspenski.cerkov.ru/files/2013/10/Rasp.pdf",
     "explanation": null,
     "timeTable": {
@@ -39,9 +34,7 @@
     "name": "Сретения Господня",
     "category": "Березовское благочиние",
     "state": "п.Старопышмкинск",
-    "id": 1002,
-    "isFeatured": false,
-    "isFavorite": false,
+    "id": 1002, 
     "park": "http://sretenye.cerkov.ru/raspisanie-bogosluzhenij/",
     "explanation": "Литургия совершается в храме в 9-00 каждую субботу и воскресение, в двунадесятые праздники, а также в дни памяти особо чтимых святых. В дни накануне Литургии в 16-00 совершаются вечерние богослужения. Уточнить о наличии в расписании богослужений  помимо субботы, воскресения, или двунадесятых праздников можно по тел. +7(953)03-87-44.",
     "timeTable": null,
@@ -56,8 +49,8 @@
     "category": "Всехсвятское благочиние",
     "state": "г. Екатеринбург",
     "id": 1003,
-    "isFeatured": false,
-    "isFavorite": false,
+    
+    
     "park": "https://храмвсехсвятых.рф/1262",
     "timeTable": {
       "monday": {
@@ -90,8 +83,8 @@
      "category": "Всехсвятское благочиние",
      "state": "г. Екатеринбург",
      "id": 1016,
-     "isFeatured": false,
-     "isFavorite": false,
+     
+     
      "park": "http://st-tks.ru/bogosluzheniya/raspisanie-bogosluzheniy/",
      "timeTable": {
        "monday": {
@@ -123,8 +116,8 @@
     "category": "Всехсвятское благочиние",
     "state": "г. Екатеринбург",
     "id": 1017,
-    "isFeatured": false,
-    "isFavorite": false,
+    
+    
     "park": "http://xram-na-krovi.ru/расписние-богослужений/",
     "timeTable": {
       "monday": {
@@ -156,8 +149,8 @@
      "category": "Монастырское благочиние",
      "state": "г. Екатеринбург",
      "id": 1018,
-     "isFeatured": false,
-     "isFavorite": false,
+     
+     
      "park": "http://www.sestry.ru/church/content/life/monastir/scheduleods",
      "explanation": null,
      "timeTable": {
@@ -193,8 +186,8 @@
     "category": "Березовское благочиние",
     "state": "п.Новоберезовский",
     "id": 1004,
-    "isFeatured": false,
-    "isFavorite": false,
+    
+    
     "park": "https://st-ioann-voin.ru/?page_id=49",
     "explanation": "Литургия совершается в храме в 9-00 каждую субботу и воскресение, в двунадесятые праздники, а также в дни памяти особо чтимых святых. В дни накануне Литургии в 17-00 совершаются вечерние богослужения. Уточнить о наличии в расписании богослужений  помимо субботы, воскресения, или двунадесятых праздников можно по тел. +7 902 255 27 59.",
     "timeTable": null,
@@ -210,8 +203,8 @@
     "city": "Browning",
     "state": "п.Монетный",
     "id": 1005,
-    "isFeatured": false,
-    "isFavorite": false,
+    
+    
     "park": "http://hram-monetniy.cerkov.ru",
     "explanation": "Литургия совершается в храме каждую субботу и воскресение, в двунадесятые праздники, а также в дни памяти особо чтимых святых. В дни накануне Литургии совершаются вечерние богослужения. Уточнить о наличии в расписании богослужений  помимо субботы, воскресения, или двунадесятых праздников можно по тел. +7 (904) 176 5878",
     "timeTable": null,
@@ -226,8 +219,8 @@
     "category": "Березовское благочиние",
     "state": "п. Становая",
     "id": 1006,
-    "isFeatured": false,
-    "isFavorite": false,
+    
+    
     "park": "http://stanovaj.cerkov.ru/kontakty/",
     "explanation": "Литургия совершается в храме каждую субботу и воскресение, в двунадесятые праздники, а также в дни памяти особо чтимых святых. В дни накануне Литургии совершаются вечерние богослужения. Уточнить о наличии в расписании богослужений  помимо субботы, воскресения, или двунадесятых праздников можно по тел. +7 909 000 7337",
     "timeTable": null,
@@ -242,8 +235,8 @@
     "category": "Березовское благочиние",
     "state": "п. Сарапулка",
     "id": 1007,
-    "isFeatured": false,
-    "isFavorite": false,
+    
+    
     "park": "http://sarapulka.cerkov.ru/kontakty/",
     "explanation": "Литургия совершается в храме каждую субботу и воскресение, в двунадесятые праздники, а также в дни памяти особо чтимых святых. В дни накануне Литургии совершаются вечерние богослужения. Уточнить о наличии в расписании богослужений  помимо субботы, воскресения, или двунадесятых праздников можно по тел. +7 909 000 7337",
     "timeTable": null,
@@ -258,8 +251,8 @@
     "category": "Верхнепышминское благочиние",
     "state": "г. Верхняя Пышма",
     "id": 1008,
-    "isFeatured": false,
-    "isFavorite": false,
+    
+    
     "park": "https://hramvp.info/time",
     "timeTable": {
       "monday": {
@@ -290,8 +283,8 @@
     "category": "Монастырское благочиние",
     "state": "г. Екатеринбург",
     "id": 1010,
-    "isFeatured": false,
-    "isFavorite": false,
+    
+    
     "park": "https://ganinayama.ru/palomnikam/raspisanie-bogosluzheniy",
     "explanation": "Вечернее богослужение совершается в 17:00, Литургия в будние дни - в 6:30; в субботу - 6:00 и 6:30 (с утреней); в Воскресение - 6:00 и 8:30; в Двунадесятые праздники - 8:30",
     "timeTable": null,
@@ -306,8 +299,8 @@
     "category": "Монастырское благочиние",
     "state": "г. Верхотурье",
     "id": 1011,
-    "isFeatured": false,
-    "isFavorite": false,
+    
+    
     "park": "http://monastyr.org/kontakty.html",
     "explanation": "Контактные телефоны: канцелярия +7999-562-36-50; паломническая служба +7 (953)-387-86-24; паломническая гостиница +7 (922)-296-36-87",
     "timeTable": null,
@@ -322,8 +315,8 @@
     "category": "Ивановское благочиние",
     "state": "г.Екатеринбург",
     "id": 1012,
-    "isFeatured": false,
-    "isFavorite": false,
+    
+    
     "park": "http://www.sobor-uspenie.ru/raspisanie_slujb",
     "explanation": null,
     "timeTable": {
@@ -355,8 +348,8 @@
     "category": "Ревдинское благочиние",
     "state": "г. Ревда",
     "id": 1013,
-    "isFeatured": false,
-    "isFavorite": false,
+    
+    
     "park": "http://ekaterinburg-eparhia.ru/building/chrames/182/",
     "explanation": "Службы в храме совершаются ежедневно. Начало вечернего богослужения в 16:00, Божественной литургии в 8:00. Ежедневно совершаются молебны с акафистами Архистратигу Михаилу, св. блж. Матроне Московской, свт. Спиридону Тримифунтскому, свт. Николаю Чудотворцу, перед иконами Божией Матери «Неупиваемая чаша» и «Всецарица». +7 (34397) 2-56-10, +7(912) 291-99-48, г. Ревда, пер. Клубный 2 а",
     "timeTable": null,
@@ -371,8 +364,8 @@
     "category": "Полевское благочиние",
     "state": "пос. Курганово",
     "id": 1014,
-    "isFeatured": false,
-    "isFavorite": false,
+    
+    
     "park": "http://kurganovo.cerkov.ru/",
     "explanation": "Расписание богослужений можно узнать по телефону +7(982)702-54-02. Адрес храма: Свердловская область, Полевской район, село Курганово, ул. Пионерская, д. 10.",
     "timeTable": null,
@@ -387,8 +380,8 @@
     "category": "Пригородное благочиние",
     "state": "пос. Кольцово",
     "id": 1015,
-    "isFeatured": false,
-    "isFavorite": false,
+    
+    
     "park": "https://hram-koltsovo.ru/Str3_OrthodoxCalendar/Str3_1_Timetable/Str3_1_Timetable.php",
     "explanation": null,
     "timeTable": null,
